@@ -1,4 +1,5 @@
 # Customer-Management-System
 
-This is CMS build on Python and its a simple and small project.
+This is a Customer Management System built using Python.
 # Note:- Whole Program is based on list.
+
